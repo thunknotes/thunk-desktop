@@ -1,2 +1,2 @@
-Thunk Notes Desktop App Releases Repository
+# Thunk Notes Desktop App Releases Repository
 
